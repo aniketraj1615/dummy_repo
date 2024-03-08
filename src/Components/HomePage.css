@@ -1,0 +1,25 @@
+/* src/HomePage.css */
+.home-page {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .actions {
+    margin-top: 30px;
+  }
+  
+  .actions ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .actions li {
+    margin: 10px 0;
+  }
+  
+  .actions a {
+    text-decoration: none;
+    color: #5194dc;
+    font-weight: bold;
+  }
+  
